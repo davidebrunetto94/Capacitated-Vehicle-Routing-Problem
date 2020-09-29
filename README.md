@@ -1,2 +1,2 @@
 # Capacitated-Vehicle-Routing-Problem
-Capacitated Vehicle Routing Problem solver in python using CPLEX APIs
+A Jupyter notebook in python which uses CPLEX's APIs to solve a Capacitated Vehicle Routing Problem
